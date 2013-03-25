@@ -1,0 +1,3 @@
+name: ChangeLogger
+version: 1.0
+main: com.psyco.changelogger.ChangeLogger
